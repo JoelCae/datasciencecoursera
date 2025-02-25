@@ -4,8 +4,5 @@ output: html_document
 date: "2025-02-23"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## This is a markdown file
